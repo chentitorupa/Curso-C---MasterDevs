@@ -1,12 +1,19 @@
 ﻿using System;
 
-namespace HelloWorld
+namespace @namespace
 {
+    /*
+    Comentario
+    */
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int @int=24;
+            Console.WriteLine("Hello World! " + @int);
         }
     }
+
+    
 }
+
