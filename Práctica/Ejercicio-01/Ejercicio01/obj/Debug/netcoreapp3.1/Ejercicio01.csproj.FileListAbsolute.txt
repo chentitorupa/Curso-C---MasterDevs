@@ -1,0 +1,13 @@
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.csprojAssemblyReference.cache
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.AssemblyInfoInputs.cache
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.AssemblyInfo.cs
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.exe
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.deps.json
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.runtimeconfig.json
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.runtimeconfig.dev.json
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.dll
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\bin\Debug\netcoreapp3.1\Ejercicio01.pdb
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.dll
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.pdb
+D:\Cursos\Curso C#\Práctica\Ejercicio-01\Ejercicio01\obj\Debug\netcoreapp3.1\Ejercicio01.genruntimeconfig.cache
