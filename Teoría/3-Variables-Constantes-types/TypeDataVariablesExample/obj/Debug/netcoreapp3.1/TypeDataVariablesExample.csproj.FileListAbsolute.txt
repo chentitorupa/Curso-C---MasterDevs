@@ -1,0 +1,13 @@
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.exe
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.deps.json
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.runtimeconfig.json
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.runtimeconfig.dev.json
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.dll
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\bin\Debug\netcoreapp3.1\TypeDataVariablesExample.pdb
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.csprojAssemblyReference.cache
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.AssemblyInfoInputs.cache
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.AssemblyInfo.cs
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.dll
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.pdb
+D:\Cursos\Curso C#\Teoría\3-Variables-Constantes-types\TypeDataVariablesExample\obj\Debug\netcoreapp3.1\TypeDataVariablesExample.genruntimeconfig.cache
